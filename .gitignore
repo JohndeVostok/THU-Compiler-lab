@@ -21,3 +21,21 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+#gedit
+*~
+
+#Lab
+*.decaf
+*.result
+*.tac
+
+#user
+*.pdf
+lab1a/tools
+lab1b/tools
+lab2/tools
+lab3/tools
+*.py
+*.docx
+
